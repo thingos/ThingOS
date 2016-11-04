@@ -1,0 +1,30 @@
+{
+  "name": "thingos",
+  "version": "0.0.1",
+  "description": "ThingOS",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thingos/ThingOS.git"
+  },
+  "keywords": [
+    "Internet",
+    "of",
+    "Things",
+    "IoT",
+    "Operation",
+    "System"
+  ],
+  "author": "Thomas Kubitza",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/thingos/ThingOS/issues"
+  },
+  "homepage": "https://github.com/thingos/ThingOS#readme"
+}
